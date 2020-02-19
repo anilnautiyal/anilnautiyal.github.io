@@ -4,42 +4,26 @@ twitter_username: anilnautiyal
 name: Anil Nautiyal
 
 # Build settings
-markdown: kramdown
 
 #User specific content
 #Links that will appear in the navbar
 primarylinks:
- - title: Blog
-   url: http://automateddeveloper.blogspot.com/
- - title: GitHub
-   url: https://github.com/robhinds
- - title: StackOverflow
-   url: http://stackoverflow.com/users/258813/rhinds
- - title: DZone
-   url: https://dzone.com/users/899489/rhinds.html
- - title: LinkedIn
-   url: https://www.linkedin.com/pub/rob-hinds/21/361/3b1
 
+ - title: GitHub
+   url: https://github.com/anilnautiyal
+   
 #Any buzzword skills you want to include
 skills:
- - Scala
- - Akka-http
- - Microservices
- - Slick
- - Product management
- - API design
- - Groovy
- - Spring MVC/Boot/Social
- - Gradle
- - Java
- - JPA
- - SQL
- - REST
- - Technical Architecture
- - Machine learning
-
+ - GitHub CI/CD
+ - Jenkind
+ - AWS Services
+ - Linux Server (Centos, Ubuntu) hosting knowledge
+ - SSL Implementation
+ - Knowledge of DNS configuration
+ - Knowledge of PHP
+ - Website Hosting knowledge of Wordpress, Laravel, Codignator, Magento.
+ 
 #Blogfeed is optional - including this will add JS to call the feed and populate blog list
-blogfeed: https://automateddeveloper.blogspot.com/feeds/posts/default?alt=json
 
 #Work experience is required
 roles:
